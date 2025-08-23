@@ -3,12 +3,12 @@
   "symbol": "S",
   "description": "Sem - NFT",
   "seller_fee_basis_points": 0,
-  "image": "",
+  "image": "https://raw.githubusercontent.com/sem-noah/Crypto/main/devnet/nft/Sem/logo.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "",
+        "uri": "https://raw.githubusercontent.com/sem-noah/Crypto/main/devnet/nft/Sem/logo.png",
         "type": "image/png"
       }
     ],

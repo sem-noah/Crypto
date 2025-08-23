@@ -1,1 +1,23 @@
-
+{
+  "name": "Sem",
+  "symbol": "S",
+  "description": "Sem - NFT",
+  "seller_fee_basis_points": 0,
+  "image": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "tnn4xu6mp96KcScBmLgwp42uuzLvpjwRipoSccXYw66",
+        "share": 100
+      }
+    ]
+  }
+}

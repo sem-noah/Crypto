@@ -1,7 +1,7 @@
 {
   "name": "Sem",
   "symbol": "S",
-  "description": "Sem - NFT",
+  "description": "Devnet NFT - Sem",
   "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/sem-noah/Crypto/main/devnet/nft/Sem/logo.png",
   "attributes": [],

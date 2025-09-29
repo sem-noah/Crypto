@@ -1,1 +1,6 @@
-
+{
+  "name": "Sem",
+  "symbol": "SEM",
+  "description": "De officiële Sem Token op Polygon.",
+  "image": "https://raw.githubusercontent.com/sem-noah/Crypto/main/polygon/token/sem/logo.png"
+}
